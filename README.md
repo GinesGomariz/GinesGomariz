@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @GinesGomariz
+- 👀 I’m interested in computer science, BIG DATA, AI, maths, physic, statistic
+- 🌱 I’m currently learning computer vision, deep learning, machine learning, numerical analisis
+- 📫 How to reach me ...
+
+<!---
+GinesGomariz/GinesGomariz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
