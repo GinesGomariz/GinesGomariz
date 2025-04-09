@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GinesGomariz
 - 👀 I’m interested in computer science, BIG DATA, AI, maths, physics, statistics
-- 🌱 I’m currently learning computer vision, deep learning, machine learning, numerical analisis
+- 🌱 I’m currently learning computer vision, deep learning, machine learning, numerical analysis
 - 📫 How to reach me ...
 
 <!---
