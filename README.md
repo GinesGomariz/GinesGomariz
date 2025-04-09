@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GinesGomariz
-- 👀 I’m interested in computer science, BIG DATA, AI, maths, physic, statistic
+- 👀 I’m interested in computer science, BIG DATA, AI, maths, physics, statistics
 - 🌱 I’m currently learning computer vision, deep learning, machine learning, numerical analisis
 - 📫 How to reach me ...
 
